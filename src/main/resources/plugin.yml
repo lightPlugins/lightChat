@@ -1,7 +1,7 @@
-name: lightModule
-author: lightPlugins
+name: lightChat
+author: lightStudios
 version: 0.1.0
-main: io.lightplugins.dummy.Light
+main: io.lightplugins.chat.Light
 api-version: 1.13
 depend: []
 softdepend: []

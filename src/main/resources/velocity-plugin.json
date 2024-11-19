@@ -1,0 +1,13 @@
+{
+  "id": "lightChat",
+  "name": "lightChat",
+  "version": "0.1.0",
+  "authors": ["LightStudios"],
+  "main": "io.lightstudio.chat.LightProxy",
+  "dependencies": [
+    {
+      "id": "velocity",
+      "optional": false
+    }
+  ]
+}
